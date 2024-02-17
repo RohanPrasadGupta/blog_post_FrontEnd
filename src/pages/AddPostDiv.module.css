@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  gap: 40px;
+  padding: 10px;
+  background-color: rgb(227, 158, 28);
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.main input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+.main button {
+  background: #66e77e;
+  color: rgb(81, 76, 76);
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.main button:hover {
+  background: aliceblue;
+}
